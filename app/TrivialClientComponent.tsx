@@ -1,5 +1,5 @@
 "use client";
 
 export default function TrivialClientComponent() {
-  return <p>TrivialClientComponent</p>;
+  return <p>TrivialClientComponent -- Enable Network Throttling</p>;
 }
